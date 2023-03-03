@@ -1,6 +1,7 @@
 ## Hi there 👋
 🙋‍♀️ A cup of react is aiming to solve critical real world problems by collaborating each other.
-🍿 Do you love a cup of coffee?
+
+🍿 Would you prefer a cup of coffee or a cup of react?
 <!--
 
 **Here are some ideas to get you started:**

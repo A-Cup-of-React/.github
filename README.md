@@ -1,3 +1,4 @@
 ### A Cup of React
+A Cup of React is aiming to share critical problems and experience with React.
 
-![ezgif com-webp-to-png (5)](https://user-images.githubusercontent.com/108036200/222784960-e1b4b8ee-eda3-4aa2-a091-77afd248bdef.png)
+
